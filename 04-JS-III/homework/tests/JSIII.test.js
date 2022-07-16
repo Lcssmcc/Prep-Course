@@ -81,6 +81,7 @@ describe('arrayContiene(arr, item)', function() {
     expect(arrayContiene([10, 10, 16, 12], 10)).toBe(true);
     expect(arrayContiene([97, 100, 80, 55, 72, 94], 'Hola')).toBe(false);
     expect(arrayContiene([], true)).toBe(false);
+    //expect(arrayContiene([1, 2, 3, 4], 2)).toBe(true);
   });
 });
 
@@ -155,6 +156,7 @@ describe('todosIguales(arreglo)', function() {
     expect(todosIguales([97, 100, 190, 9])).toBe(false);
    
     expect(todosIguales([230, 230, 230, 230 ])).toBe(true);
+    expect(todosIguales([230, 230, 230, 1 ])).toBe(false);// caso adicional
   });
 });
 

@@ -1,0 +1,16 @@
+
+
+* `prototype`
+
+String.prototype.metodox = funtion()
+
+
+
+
+
+let ian = new String()
+ian.metodox
+
+
+
+* _Constructors_ (de Clases)

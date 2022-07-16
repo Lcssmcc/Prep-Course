@@ -1,0 +1,15 @@
+    *Objetos
+    Los objetos son un contenedor datos;
+    
+	* Propiedades
+    las propiedades son aquellas almacenadas dentro objetos;
+	
+    * Métodos
+    los metodos son funciones de clase;
+	
+    *Bucle `for…in`
+    el bucle 'for...in' se utiliza para iterar las propiedades dentro de un objeto;
+	
+    * Notación de puntos vs notación de corchetes
+    la notacion de puntos es utilizable para acceder una propiedad determinada dentro del objeto
+    la notacion de cochetes sirve para lo mismo que la anterior y su diferencia es que se utiliza cuando el nombre de la propiedad se encuentra en una variable;

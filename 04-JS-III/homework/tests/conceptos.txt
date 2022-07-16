@@ -1,0 +1,2 @@
+Arrays
+Los arrays son contenedores con forma de lista de diferentes datos;

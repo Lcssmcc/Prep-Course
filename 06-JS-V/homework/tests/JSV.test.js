@@ -42,12 +42,12 @@ describe('agregarStringInvertida(StringPrototype)', function(){
 describe('crearInstanciaPersona()', function() {
 	it('should return a new instance of Persona', function() {
 		expect(crearInstanciaPersona("Juan", "Pérez", 22, "Saavedra 123")).toBeInstanceOf(Persona);
-	});
+	}); // verificar el test, pasa sin comprobar que el objeto tenga properties.
 });
 
 describe('agregarMetodo(Persona)', function() {
 	it('should add the method datos to the constructor', function() {
-		agregarMetodo();
+		agregarMetodo(); 
 		const persona = new Persona("Juan", "Pérez", 22, "Saavedra 123");
 		expect(persona.datos()).toBe('Juan, 22 años');
 	});

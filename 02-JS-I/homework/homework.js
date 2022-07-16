@@ -6,9 +6,9 @@ const { stringify } = require("git-url-parse");
 const nuevaString = 'Not Null';
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = 2;
+const nuevoNum = 5;
 
-// Crea una variable booleana:
+// Crea una variable booleana:       
 const nuevoBool = true;
 
 // Resuelve el siguiente problema matemático:

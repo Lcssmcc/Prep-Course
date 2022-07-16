@@ -1,0 +1,11 @@
+ 
+ 
+ 
+ 
+ `for`
+un bucle for es utilizado para repetir la ejectucion de codigo tantas veces como uno desee.
+
+ `&&`, `||`, `!`
+operadores logicos: && es un operador logico que devuelve true si se cumplen todas la condiciones y si alguna falla devuelve false;
+                    || es un operador logico que devuelve true si alguna de las condiciones se cumple y devuelve false si todas fallan; 
+                    !  es un operador logico que cambia true a false y viceversa;

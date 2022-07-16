@@ -1,0 +1,16 @@
+Variable
+Las variables son contenedores de datos
+
+String
+Los strings son cadenas de caracteres
+
+Funciones
+Las funciones son una seguidilla de instrucciones que debe realizar la computadora.
+El argumento es el "input" de una funcion
+La palabra "return" hace referencia a retornar un resultado y finalizar la ejecucion
+
+"IF"
+ejecuta codigo en base a condiciones
+
+Valores booleanos
+Los valores booleanos son unicamente true o false.
