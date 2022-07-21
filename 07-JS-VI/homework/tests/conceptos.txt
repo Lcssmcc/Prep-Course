@@ -1,0 +1,3 @@
+* Funciones Callback
+
+Una funcion Callback llama a otra funcion como argumento la cual es utilizada luego por fuera para completar una accion;

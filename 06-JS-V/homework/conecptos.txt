@@ -1,16 +1,8 @@
 
 
 * `prototype`
-
-String.prototype.metodox = funtion()
-
-
-
-
-
-let ian = new String()
-ian.metodox
-
+Es el medio por el cual se heredan las propiedades de otros objetos entre si 
 
 
 * _Constructors_ (de Clases)
+Es un metodo que sirve para crear un objeto determinado a partir de una clase
